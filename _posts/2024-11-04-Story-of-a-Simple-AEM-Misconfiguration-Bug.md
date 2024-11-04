@@ -52,7 +52,7 @@ This was the least complicated stage, and it is as follows
 2. Append `.children.json` which modifies the URL to 
 `https://www.example.com/content/dam/example.pdf/.children.json`
 
-3. A JSON response will be returned which contains a data field jcr:lastModifiedBy that has sensitives details such as Email ID / Name / Numerical IDs of the last person who modified the given file.
+3. A JSON response will be returned which contains a data field `jcr:lastModifiedBy` that has sensitives details such as Email ID / Name / Numerical IDs of the last person who modified the given file.
 
 An example of such a JSON response is shown below
 
