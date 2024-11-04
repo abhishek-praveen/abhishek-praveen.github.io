@@ -49,7 +49,7 @@ This was the least complicated stage, and it is as follows
 
 1. Let's call our vulnerable website `www.example.com` , and it renders a PDF at `https://www.example.com/content/dam/example.pdf/`
 
-2. Append .children.json which modifies the URL to 
+2. Append `.children.json` which modifies the URL to 
 `https://www.example.com/content/dam/example.pdf/.children.json`
 
 3. A JSON response will be returned which contains a data field jcr:lastModifiedBy that has sensitives details such as Email ID / Name / Numerical IDs of the last person who modified the given file.
