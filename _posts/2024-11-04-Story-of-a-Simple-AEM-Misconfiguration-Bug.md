@@ -44,7 +44,10 @@ This lists all the sites which uses AEM to render a PDF file. It took me no time
 
 ## Exploitation 
 
-This was the least complicated stage, and it is as follows
+This was the least complicated stage. But before moving on to that, please keep in mind that this bug can be rated at a low severity or even out-of-scope, depending upon the bug bounty program's rules. So it's always suggested to try to escalate the issue to high or medium severity before reporting this as it is. The bug which I found was in a Vulnerability Disclosure Program, so considering the time and skill required for the same, I had to stop at the initial phase of exploitation. 
+ 
+
+Anyways providing you with an overview of the steps involved for better clarity.
 
 
 1. Let's call our vulnerable website `www.example.com` , and it renders a PDF at `https://www.example.com/content/dam/example.pdf/`
