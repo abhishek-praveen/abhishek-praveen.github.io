@@ -14,3 +14,5 @@ Hello all, I'm Abhishek, an avid learner of Cybersecurity who started exploring 
 This blog is a personal space where I will post about my learnings and reflections as I try to walk down the long path of Cybersecurity, one step at a time.
 
 Feel free to connect with me on my socials if you'd like to discuss anything—or just want to say hi.
+
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fabhishek-praveen.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
