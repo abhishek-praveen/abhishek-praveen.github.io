@@ -7,7 +7,7 @@ tags: [AEM Misconfiguration,Information Disclosure,Hall of Fame]
 
 This is a small blog post on how the habit of skimming through medium blogs daily led me to stumble upon a simple vulnerability that got me my first hall of fame. This finding was in fact a year back, but I wasn't able to document it during that time. So let's see what this vulnerability is all about and how I was able to exploit it.
 
-During the initial hours of a Monday morning in February 2023, I was casually scrolling through the medium writes for the day, which medium sends you directly into your inbox. That's when the title “Adobe Experience (AEM) Information Disclosure Vulnerability”  by the Security  Researcher [Fat Selimi](https://x.com/fattselimi) caught my attention. Upon reading it fully, I was surprised on how easy the exploitation of this bug was, which motivated me to dig deeper into it. The original blog post which I read seems to unavailable right now, but a tweet by the same researcher summarizes the exploitation of the vulnerability.
+During the initial hours of a Monday morning in February 2023, I was casually scrolling through the medium writes for the day, which medium sends you directly into your inbox. That's when the title “Adobe Experience (AEM) Information Disclosure Vulnerability”  by the Security  Researcher [Fat Selimi](https://x.com/fattselimi) caught my attention. Upon reading it fully, I was surprised on how easy the exploitation of this bug was, which motivated me to dig deeper into it. The original blog post which I read seems to unavailable right now, but a tweet by the same researcher summarizes the discovery of this vulnerability.
 
 <!-- <img src="assets/posts/post1/aem_tweet.jpg" alt="Tweet about the vulnerability" width="400" /> -->
 
