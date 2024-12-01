@@ -112,9 +112,9 @@ As a person who was just starting out in Cybersecurity, learning and passing thi
 
 Getting a certification or not is purely a personal choice which has to be made depending upon various factors, but if you are preparing for GFACT and have any questions, feel free to [reach out](https://www.linkedin.com/in/abhishek-praveen/) to me.
 
-It would mean the world to me if someone is positively impacted by the content that I create :smiley:
+It would mean the world to me if someone is positively impacted by the content that I create.
 
-Until then , See you :wave:
+Until then , See you ...
 
 
 
